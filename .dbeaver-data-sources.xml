@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="oracle_thin-168831bd841-50c769ef69646413" provider="oracle" driver="oracle_thin" name="Oracle - XE" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="1521" server="" database="XE" url="jdbc:oracle:thin:@//localhost:1521/XE" user="adams" password="QlZVdCGi" home="C:\oraclexe\app\oracle\product\11.2.0\server" type="dev">
+			<provider-property name="@dbeaver-always-use-dba-views@" value="false"/>
+			<provider-property name="@dbeaver-sid-service@" value="SERVICE"/>
+			<provider-property name="@dbeaver-use-rule-hint@" value="false"/>
+			<provider-property name="@dbeaver-connection-type@" value="BASIC"/>
+			<provider-property name="@dbeaver-check-schema-content@" value="false"/>
+			<provider-property name="@dbeaver-always-show-dba@" value="false"/>
+		</connection>
+	</data-source>
+	<data-source id="oracle_thin-1689713b1db-31fede2aa2c5c3b" provider="oracle" driver="oracle_thin" name="Oracle - XE 2" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="1521" server="" database="XE" url="jdbc:oracle:thin:@//localhost:1521/XE" user="system" password="HgUIIUZGVnbk" home="C:\oraclexe\app\oracle\product\11.2.0\server" type="dev">
+			<provider-property name="@dbeaver-always-use-dba-views@" value="false"/>
+			<provider-property name="@dbeaver-sid-service@" value="SERVICE"/>
+			<provider-property name="@dbeaver-use-rule-hint@" value="false"/>
+			<provider-property name="@dbeaver-connection-type@" value="BASIC"/>
+			<provider-property name="@dbeaver-check-schema-content@" value="false"/>
+			<provider-property name="@dbeaver-always-show-dba@" value="false"/>
+		</connection>
+	</data-source>
+	<data-source id="oracle_thin-168971820ef-20ace805088c22c9" provider="oracle" driver="oracle_thin" name="Oracle - XE 3" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="1521" server="" database="XE" url="jdbc:oracle:thin:@//localhost:1521/XE" user="system" password="HgUIIUZGVnbk" home="C:\oraclexe\app\oracle\product\11.2.0\server" type="dev">
+			<property name="useFetchSizeWithLongColumn" value="true"/>
+			<property name="loginTimeout" value="20"/>
+			<provider-property name="@dbeaver-always-use-dba-views@" value="false"/>
+			<provider-property name="@dbeaver-sid-service@" value="SERVICE"/>
+			<provider-property name="@dbeaver-use-rule-hint@" value="false"/>
+			<provider-property name="@dbeaver-connection-type@" value="BASIC"/>
+			<provider-property name="@dbeaver-check-schema-content@" value="false"/>
+			<provider-property name="@dbeaver-always-show-dba@" value="false"/>
+		</connection>
+	</data-source>
+	<filters/>
+</data-sources>
