@@ -227,8 +227,9 @@ UML 넣을 곳
 게시판 관리를 클릭 시, 현재 로그인 중인 정보를 받아, settingBoard에 게시글을 불러온다.<br>
 삭제할 글을 선택한 후, 삭제 버튼을 누르면 confirm창이 뜨고 다시 확인한다.<br><br>
   
-    <h4>게시판 - 게시글 수정(1) </h4>
-    <br><br>
+<h4>게시판 - 게시글 수정(1) </h4>
+<br><br>
+
 <img src="https://postfiles.pstatic.net/MjAxOTA1MjBfOTQg/MDAxNTU4Mjg2MDAxNTk3.349A_PEmSR5ccfunR4lnG5rKbk3hjaYasV5buDAPh7kg.4bH3XyaIBbkTDCLrQRb4iy1sm7P_sC9X5EM12Qf3xt8g.PNG.wjddydwndi/24.png?type=w773" width="100%">
 <img src="https://postfiles.pstatic.net/MjAxOTA1MjBfOTIg/MDAxNTU4Mjg2MDAxNjM3.C3bkZt2ynC8Ob5ygQyXlBMky0NtUdivkr2hznmp2XEIg.ZOQyYXV42G2mAj11Uacmk1gQfhQesgIgSyRxOXI7lSog.PNG.wjddydwndi/25.png?type=w773" width="100%">
 <br>
@@ -237,7 +238,9 @@ UML 넣을 곳
 <br>
  - ① Table에서 클릭할 때, board_id를 받아와서 일치 할때, 조회수 증가
 <br><br>
+
 <h4>게시판 - 게시글 수정(2) </h4>
+
 <br><br>
 <img src="https://postfiles.pstatic.net/MjAxOTA1MjBfNDAg/MDAxNTU4Mjg2MDA1ODEw.Ni1EdqcDJY1ANltvH4v2XF2FsRp4vpO7iqs9pTgOINAg.s-oe4DSFrDeuiK3YjWjyc5zL0YUizo3qUhvGCK1n1EAg.PNG.wjddydwndi/26.png?type=w773" width="100%">
 <br>
