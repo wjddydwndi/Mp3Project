@@ -14,17 +14,17 @@
 
 프로젝트 기간	: 2019. 02 .02 ~ 2019.02.10
 <br><br><br><br>
--------------------------------------------------------------------------------------------------------------------------
+<hr/>
 <h3>구조 - DataBase</h3>
 <br><br>
 <img src="https://postfiles.pstatic.net/MjAxOTA1MjBfMjM4/MDAxNTU4Mjg1NzgyNDMw.-TpJxvwOyu17NyEYJP1C2HsfRq_vi-JVy7c-OlqXFdkg.JiWpODywn94SaVgtO6-N2cyz1j9JDpicb8Rqy92Msngg.PNG.wjddydwndi/2.png?type=w773" width="100%">
 <br><BR>
--------------------------------------------------------------------------------------------------------------------------
+<hr/>
 <h4> ERD </h4>
 <br><br>
 <img src="https://postfiles.pstatic.net/MjAxOTA1MjBfMjYz/MDAxNTU4Mjg1NzkwNDcw.D69J5WaVFWtNcYD9zZd-ZjA9VCrWKpZydH9flbV0muUg.JgVgTy4JfO5PBqxzX3Kom6VbqcZic9FdpP_ZgVoPZKIg.PNG.wjddydwndi/mp3ERD.png?type=w773" width="100%">
 <br><br>
--------------------------------------------------------------------------------------------------------------------------
+<hr/>
 <h3>클래스 구조</h3>
 <br><br>
 <img src="https://postfiles.pstatic.net/MjAxOTA1MjBfMjU2/MDAxNTU4Mjg1ODEyMzc3.kczdLTIg1uFsTBiiTZa0Px2PH1d82qG9Mc_gIaTP-xAg.IqLHrisDvpeNZJ9CCF481sgZKMmidOIiCeBM4TmoPREg.PNG.wjddydwndi/4.png?type=w773" width="100%">
