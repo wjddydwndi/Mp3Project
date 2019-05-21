@@ -77,9 +77,10 @@
 <hr/>
    <h4>회원관리 - 아이디/비밀번호 찾기</h4>
   <br><BR>
+<img src="https://postfiles.pstatic.net/MjAxOTA1MjBfMjEz/MDAxNTU4Mjg1OTIyNDg5.yGVBjqRvwMRE9EcBdJSExxAeDwYWnVkQTITbUT_-0h4g.7XbM7-ywHBZ9ZHm5AzZeG4jJIGNb_MU7pIJrzeSGmOUg.PNG.wjddydwndi/7.png?type=w773" width="100%">
+  <br>
 회원이 자신의 개인정보를 분실한 경우, 개인정보를 찾을 수 있는 기능이다.<br>
 로그인 화면에서 아이디 / 비밀번호 찾기 버튼을 클릭 시 화면이 전환된다.<br>
-<img src="https://postfiles.pstatic.net/MjAxOTA1MjBfMjEz/MDAxNTU4Mjg1OTIyNDg5.yGVBjqRvwMRE9EcBdJSExxAeDwYWnVkQTITbUT_-0h4g.7XbM7-ywHBZ9ZHm5AzZeG4jJIGNb_MU7pIJrzeSGmOUg.PNG.wjddydwndi/7.png?type=w773" width="100%">
   <Br>
   - 아이디 찾기<br>
     1. 이름 / 생년월일을 입력한다.<br>
