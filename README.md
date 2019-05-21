@@ -45,9 +45,10 @@
     <h4> 게시판 관련 </h4>
     <br><br>
 <img src="https://postfiles.pstatic.net/MjAxOTA1MjBfMzAg/MDAxNTU4Mjg1ODMwMjE0.yy-f699sWbloFYpPDSu8vNJ7l6qmI9pI4GnXnzfuzwMg.ddpuNAIBw2ko9E2ZvGmHAwBtjKHdbqCmxK4j1VRFYi8g.PNG.wjddydwndi/%EA%B2%8C%EC%8B%9C%ED%8C%90_%EA%B4%80%EB%A0%A8_UML.png?type=w773" width="100%">
-    <br><br>
+   <br>
+   <hr/>
   <h3>상세 설명</h3>
-  <br><br>
+  <br>
 <hr/>
 <h4>회원관리 - 로그인</h4>
   <br><br>
